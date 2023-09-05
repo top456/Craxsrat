@@ -1,4 +1,4 @@
-https://t.me/sanavahack
+https://t.me/serious_hack
 
 # CraxsRat
 CraxsRat最新中文版，调整部分界面，显示更美观。
